@@ -25,11 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-`<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" fill="currentColor" class="bi bi-heart" viewBox="0 0 16 16">
-  <path d="M8 14s6-4.5 6-8a6 6 0 0 0-12 0c0 3.5 6 8 6 8z"/>
-</svg>`
-  <img width="48" height="48" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/>
-<a href="mailto:marvellousabidemi2@gmail.com" target="_blank"><img align="center" src="https://i.pinimg.com/564x/88/e1/4c/88e14cc7e7fcbb0e0e09de26cec86c61.jpg" alt="Email: marvellousabidemi2@gmail.com" height="60" width="60" /></a>
+<a href="mailto:marvellousabidemi2@gmail.com" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/gmail-new.png" alt="Email: marvellousabidemi2@gmail.com"/></a>
 <a href="https://twitter.com/_marvelmiles" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter: _marvelmiles" height="30" width="40" /></a>
 </p>
 
