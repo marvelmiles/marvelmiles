@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/_marvelmiles" target="blank"><img src="https://img.shields.io/twitter/follow/_marvelmiles?logo=twitter&style=for-the-badge" alt="_marvelmiles" /></a> </p>
 
-- 🔭 I’m currently working on [Soshare](https://github.com/marvelmiles/soshare)
+🌱 I’m currently learning: Dev-ops, Mobile Development
 
-- 🌱 I’m currently learning **Dev-ops**
+- 🔭 I’m currently working on [Soshare](https://github.com/marvelmiles/soshare)
 
 - 🤝 I’m looking for help with [Soshare](https://github.com/marvelmiles/soshare)
 
