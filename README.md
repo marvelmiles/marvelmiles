@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **marvellousabidemi2@gmail.com**
 
-- ⚡ Fun fact
+**⚡ Fun fact**
 * Learning to speak spanish
 * Love experimenting with the sound i create from my keyboards
 * Solo artist in my head
