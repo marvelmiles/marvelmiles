@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marvellous Akinrinmola</h1>
-<h3 align="center">Your fullstack developer from Nigeria 😎</h3>
+<h3 align="center">Your fullstack developer, from Nigeria 😎</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marvelmiles&label=Profile%20views&color=0e75b6&style=flat" alt="marvelmiles" /> </p>
 
@@ -7,24 +7,26 @@
 
 <p align="left"> <a href="https://twitter.com/_marvelmiles" target="blank"><img src="https://img.shields.io/twitter/follow/_marvelmiles?logo=twitter&style=for-the-badge" alt="_marvelmiles" /></a> </p>
 
-🌱 I’m currently learning: Dev-ops, Mobile Development
+### </> Coding Log
 
 - 🔭 I’m currently working on [Soshare](https://github.com/marvelmiles/soshare)
 
 - 🤝 I’m looking for help with [Soshare](https://github.com/marvelmiles/soshare)
+  
+- 🌱 I’m currently learning: Dev-ops, Mobile Development
 
 - 👨‍💻 All of my projects are available at [https://portfolio-marvelmiles.vercel.app](https://portfolio-marvelmiles.vercel.app)
 
-- 📫 How to reach me **marvellousabidemi2@gmail.com**
 
-**⚡ Fun fact**
+### ⚡ Fun facts
 * Learning to speak spanish
 * Love experimenting with the sound i create from my keyboards
 * Solo artist in my head
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_marvelmiles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_marvelmiles" height="30" width="40" /></a>
+<a href="mailto:marvellousabidemi2@gmail.com" target="_blank"><img align="center" src="https://icons8.com/icon/P7UIlhbpWzZm/gmail" alt="Email: marvellousabidemi2@gmailc.om" height="30" width="40" /></a>
+<a href="https://twitter.com/_marvelmiles" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter: _marvelmiles" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
