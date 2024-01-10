@@ -25,8 +25,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto:marvellousabidemi2@gmail.com" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/gmail-new.png" alt="Email: marvellousabidemi2@gmail.com"/></a>
-<a href="https://twitter.com/_marvelmiles" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter: _marvelmiles" height="30" width="40" /></a>
+<a href="https://twitter.com/_marvelmiles" target="_blank"><img align="center" width="25" height="25" src="https://img.icons8.com/ios/25/twitterx--v2.png" alt="Twitter: _marvelmiles" /></a>
+<a href="mailto:marvellousabidemi2@gmail.com" target="_blank"><img align="center" width="25" height="25" src="https://img.icons8.com/color/25/gmail-new.png" alt="Email: marvellousabidemi2@gmail.com" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
