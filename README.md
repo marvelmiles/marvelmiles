@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto:marvellousabidemi2@gmail.com" target="_blank"><img align="center" src="https://i.pinimg.com/564x/88/e1/4c/88e14cc7e7fcbb0e0e09de26cec86c61.jpg" alt="Email: marvellousabidemi2@gmail.com" height="30" width="40" /></a>
+<a href="mailto:marvellousabidemi2@gmail.com" target="_blank"><img align="center" src="https://i.pinimg.com/564x/88/e1/4c/88e14cc7e7fcbb0e0e09de26cec86c61.jpg" alt="Email: marvellousabidemi2@gmail.com" height="60" width="60" /></a>
 <a href="https://twitter.com/_marvelmiles" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter: _marvelmiles" height="30" width="40" /></a>
 </p>
 
