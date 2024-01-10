@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Soshare](https://github.com/marvelmiles/soshare)
 
-- 🤝 I’m looking for help with [Soshare](https://github.com/marvelmiles/soshare)
+- 🤝 I’m looking for help with [Soshare](https://github.com/marvelmiles/soshare) and [Jukebox](https://github.com/marvelmiles/jukebox)
   
 - 🌱 I’m currently learning: Dev-ops, Mobile Development
 
