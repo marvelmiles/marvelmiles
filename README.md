@@ -20,7 +20,7 @@
 
 ### ⚡ Fun facts
 * Learning to speak spanish
-* Love experimenting with the sound i create from my keyboards
+* Love experimenting with the sound I create from my keyboards
 * Solo artist in my head
 
 <h3 align="left">Connect with me:</h3>
