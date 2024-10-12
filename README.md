@@ -9,7 +9,7 @@
 
 ### </> Coding Log
 
-- 🔭 I’m currently working on [Soshare](https://github.com/marvelmiles/soshare)
+- 🔭 I’m availabe for a Job || Gig || Collaboration
 
 - 🤝 I’m looking for help with [Soshare](https://github.com/marvelmiles/soshare) and [Jukebox](https://github.com/marvelmiles/jukebox)
   
